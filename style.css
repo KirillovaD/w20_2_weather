@@ -1,0 +1,21 @@
+.weather {
+  width: 990px;
+  margin: 0 auto;
+  padding: 2em 2em;;
+  text-align: center;
+  
+  
+}
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+h1 {
+  font-size: 36px;
+  color: rgb(204, 133, 0);
+}
+h3 {
+  font-size: 20px;
+}
+.weather__temp{
+  content: \00B0;
+}
